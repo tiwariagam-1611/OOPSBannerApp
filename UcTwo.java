@@ -10,7 +10,7 @@
 
 
 
-public class UC2
+public class UcTwo
 {
 	public static void main(String[] args)
 	{
